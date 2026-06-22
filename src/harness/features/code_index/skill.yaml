@@ -1,0 +1,19 @@
+name: code_index
+description: Read-only code index tools for local agent context retrieval.
+version: 0.1.0
+tools:
+  - name: code_index.list_files
+    danger_level: safe
+  - name: code_index.search_text
+    danger_level: safe
+  - name: code_index.read_file
+    danger_level: safe
+hooks:
+  before_tool:
+    - code_index.validate_tool
+  after_tool:
+    - code_index.inspect_tool_result
+policy:
+  read_only: true
+  require_workspace_path_validation: true
+  allow_path_escape: false

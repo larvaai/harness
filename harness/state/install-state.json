@@ -1,0 +1,67 @@
+{
+  "installed_at": null,
+  "components": {
+    "rbac": {
+      "installed": true,
+      "enabled": true
+    },
+    "decision-capture": {
+      "installed": true,
+      "enabled": true
+    },
+    "uiux": {
+      "installed": true,
+      "enabled": true
+    },
+    "viz": {
+      "installed": true,
+      "enabled": true
+    },
+    "devops": {
+      "installed": true,
+      "enabled": true
+    },
+    "ai": {
+      "installed": true,
+      "enabled": true
+    },
+    "stack": {
+      "installed": true,
+      "enabled": true
+    },
+    "integrations": {
+      "installed": true,
+      "enabled": true
+    },
+    "extra": {
+      "installed": true,
+      "enabled": true
+    },
+    "flow": {
+      "installed": true,
+      "enabled": true
+    },
+    "think": {
+      "installed": true,
+      "enabled": true
+    },
+    "research": {
+      "installed": true,
+      "enabled": true
+    },
+    "create": {
+      "installed": true,
+      "enabled": true
+    },
+    "mem": {
+      "installed": true,
+      "enabled": true
+    },
+    "meta": {
+      "installed": true,
+      "enabled": true
+    }
+  },
+  "hooks_wired": true,
+  "last_verified": null
+}
