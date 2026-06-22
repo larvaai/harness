@@ -1,3 +1,0 @@
-{"ts": "2026-06-20T11:03:05.872171+00:00", "skill": "hs-think:brainstorm", "session": "7b052d15-fc35-4304-81e4-8444e750d4ee", "via": "UserPromptExpansion", "actor": "user:uspro"}
-{"ts": "2026-06-20T11:10:41.289860+00:00", "skill": "hs-think:critique", "session": "7b052d15-fc35-4304-81e4-8444e750d4ee", "via": "PreToolUse:Skill", "actor": "user:uspro"}
-{"ts": "2026-06-20T11:19:40.051499+00:00", "skill": "hs:plan", "session": "7b052d15-fc35-4304-81e4-8444e750d4ee", "via": "PreToolUse:Skill", "actor": "user:uspro"}
